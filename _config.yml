@@ -4,6 +4,7 @@ url: https://sptr.net/
 name: SPTR
 description: Last in, first out
 baseurl: ""
+google_analytics: UA-29251809-1
 
 # Build settings
 markdown: kramdown
