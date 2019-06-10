@@ -11,4 +11,4 @@ I have this week relocated the sptr.net[^domain] website to a new home, and remo
 
 [^domain]: The sptr.net domain is either not for sale, or you can’t afford it.
 
-Contact us over at cullaloe.net.
+Contact us over at cullaloe.net, or use the <a href="/contact">contact form</a>.
