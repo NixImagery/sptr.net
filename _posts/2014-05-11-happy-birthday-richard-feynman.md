@@ -17,7 +17,9 @@ tags:
   - Richard Feynman
 format: image
 ---
-<a href="http://sptr.net/files/2014/05/rf.jpg"><img class="alignleft wp-image-12640 size-full" src="http://sptr.net/files/2014/05/rf.jpg" alt="rf" width="281" height="249" /></a>Q. What's this?
+<a href="http://sptr.net/files/2014/05/rf.jpg"><img class="alignleft wp-image-12640 size-full" src="http://sptr.net/files/2014/05/rf.jpg" alt="rf" width="281" height="249" /></a>
+
+Q. What's this?
 
 A. A dead one of these.
 
