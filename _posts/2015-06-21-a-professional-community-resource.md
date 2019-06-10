@@ -21,8 +21,10 @@ tags:
   - Scotland
   - SIG
 ---
-<a href="http://sptr.net/files/2015/06/ALT15Pixies.pdf"><img class="alignright wp-image-20510 size-medium" src="http://sptr.net/files/2015/06/ALT15Pixies-300x225.png" alt="" width="300" height="225" /></a>On Thursday last week, I gave a short talk on the background and operation of this site, sptr.net, and the components that make up what I called "a professional community resource". The event was the Association of Learning Technology Scottish SIG meeting at Glasgow Caledonian University.
+<a href="http://sptr.net/files/2015/06/ALT15Pixies.pdf"><img class="alignright wp-image-20510 size-medium" src="http://sptr.net/files/2015/06/ALT15Pixies-300x225.png" alt="" width="300" height="225" /></a>
 
-The presentation slides can be downloaded as a pdf by clicking on the image on the right. You can watch a recording of the event below.
+On Thursday last week, I gave a short talk on the background and operation of this site, sptr.net, and the components that make up what I called "a professional community resource". The event was the Association of Learning Technology Scottish SIG meeting at Glasgow Caledonian University.
+
+The presentation slides can be downloaded as a pdf by clicking on the image. You can watch a recording of the event below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FtrZjzBSgk8?rel=0" frameborder="0" allowfullscreen></iframe>

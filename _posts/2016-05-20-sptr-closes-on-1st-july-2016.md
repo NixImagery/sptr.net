@@ -18,6 +18,4 @@ tags:
   - sptr.net
   - toodaloo
 ---
-As <a href="http://sptr.net/blog/sptr-changes-coming/">previously announced</a>, this site will be ceasing operation at the end of this academic session. On Friday 1st July 2016, the resources will be retired from the site and logins disabled. Keep your eye on SPUTNIK for announcements about arrangements to make the resources available after the summer.
-
-The Magic Physics Pixies will continue on <a href="https://www.facebook.com/PhysicsPixies/" target="_blank">Facebook</a>, <a href="https://twitter.com/PhysicsPixies" target="_blank">Twitter</a> and our new site at <a href="http://physicspixies.net" target="_blank">physicspixies.net</a>. We hope you'll continue to follow us for all sorts of Physicsy Fun.
+As previously announced, this site will be ceasing operation at the end of this academic session. On Friday 1st July 2016, the resources will be retired from the site and logins disabled. 
