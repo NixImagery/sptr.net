@@ -12,7 +12,9 @@ permalink: pretty
 highlighter: rouge
 paginate: 3
 
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 
 # Links
 links:
@@ -24,4 +26,3 @@ links:
     url: http://github.com/cullaloe
   - title: "rss"
     url: /feed.xml
-
