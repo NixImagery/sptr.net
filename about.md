@@ -8,3 +8,6 @@ layout: page
 Who am I? My name is Nick Hood, I am a physicist, educator and technologist working in Edinburgh. I have sustained an interest in internet and other technologies for many years and hold professional qualifications in software development. Some of this interest is revenue-generating, some just for the challenge. Get in touch if you have a question.
 
 The jekyll code for this site was cloned from [Ali Zaidi](https://github.com/alixedi)'s [typewriter](https://github.com/alixedi/typewriter) theme. Thanks, Ali.
+
+## What happened to the Pixies?
+They were slaughtered without mercy in 2016, every last one.
