@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2019-07-21:36
+date: 2019-07-31T21:36
 author: Nick
 layout: page
 ---
