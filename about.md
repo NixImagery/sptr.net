@@ -14,4 +14,4 @@ They were slaughtered without mercy in 2016, every last one.
 
 Interestingly, this site (sptr.net), which once served as repository for 10,000 resource files created, shared and used by Scottish Physics Teachers, may yet be pressed back into service as an archive. We may need a little voodoo to raise a few of the Magic Physics Pixies from the dead to keep the place tidy.
 
-Imagine that. Magic Voodoo Zombie Physics Pixies. Sleep well.
+Imagine that. Zombie Voodoo Magic Physics Pixies. Sleep well.
