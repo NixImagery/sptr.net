@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "SPTR"
-date:   2019-06-09 21:28
-categories: sptr digital
+date:   2019-09-06 15:03
+categories: 
+- sptr 
+- pixies 
+- physics
+permalink: sptr
 ---
 
-The data revolution is happening now. You don't have a choice whether to participate or not. There are choices you can make to mitigate the effects, or you can just adapt and survive.
-
-Ask me about it, if you like. Use the links.
+This is the Scottish Physics Teaching Resources (SPTR) website. You can ask about sptr and the Magic Physics Pixies on SPUTNIK. If you don't know about that, then you're in the wrong place.
