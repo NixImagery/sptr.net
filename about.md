@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2019-07-31T21:36
+date: 2019-09-06T15:12
 author: Nick
 layout: page
 ---
@@ -11,3 +11,7 @@ The jekyll code for this site was cloned from [Ali Zaidi](https://github.com/ali
 
 ## What happened to the Pixies?
 They were slaughtered without mercy in 2016, every last one.
+
+Interestingly, this site (sptr.net), which once served as repository for 10,000 resource files created, shared and used by Scottish Physics Teachers, may yet be pressed back into service as an archive. We may need a little voodoo to raise a few of the Magic Physics Pixies from the dead to keep the place tidy.
+
+Imagine that. Magic Voodoo Zombie Physics Pixies. Sleep well.
