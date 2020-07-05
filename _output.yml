@@ -1,0 +1,44 @@
+ bookdown::gitbook:
+    css: [style.css, 'https://use.fontawesome.com/releases/v5.3.1/css/all.css']
+    font-import: https://fonts.googleapis.com/css?family=Roboto|Open+Sans
+    font-family: 'Roboto'
+    number_sections: false
+    split_by: rmd
+    config:
+      df_print: kable
+      highlight: pygments
+      edit : null
+      download: null
+      search: yes
+      sharing:
+        facebook: no
+        twitter: no
+        google: no
+        weibo: no
+        instapper: no
+        vk: no
+        all: ['twitter', 'facebook', 'google', 'weibo', 'instapaper']
+      toc:
+        depth: 2
+        collapse: section
+        scroll_highlight: yes
+        before: |
+          <li class='before'><a href="./">sptr.net</a></li>
+        after: |
+         <li class='after'">
+            <div style='text-align:center'>
+               <a href="https://github.com/cullaloe/">
+                  <i class="fab fa-github fa-2x" aria-hidden="true"></i>
+               </a>
+            </div>
+         </li>
+#      edit:
+#        link: https://github.com/m-clark/workshops/
+#      highlight: pygments
+
+# bookdown::pdf_book:
+#   includes:
+#     in_header: preamble.tex
+#   latex_engine: xelatex
+#   citation_package: natbib
+# bookdown::epub_book: default
