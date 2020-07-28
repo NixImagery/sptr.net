@@ -5,6 +5,7 @@
     number_sections: false
     split_by: rmd
     config:
+      fontsettings: no
       df_print: kable
       highlight: pygments
       edit : null
