@@ -3,7 +3,7 @@
     font-import: https://fonts.googleapis.com/css?family=Roboto|Open+Sans
     font-family: 'Roboto'
     number_sections: false
-    split_by: rmd
+    split_by: 'section'
     config:
       fontsettings: no
       df_print: kable
@@ -12,13 +12,10 @@
       download: null
       search: yes
       sharing:
-        facebook: no
-        twitter: no
-        google: no
-        weibo: no
-        instapper: no
-        vk: no
-        all: ['twitter', 'facebook', 'google', 'weibo', 'instapaper']
+        facebook: yes
+        twitter: yes
+        weibo: yes
+        all: ['twitter', 'facebook', 'weibo', 'vk']
       toc:
         depth: 2
         collapse: section
